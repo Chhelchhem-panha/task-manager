@@ -1,4 +1,4 @@
-package com.panhacode.taskmanager;
+package com.panhacode.taskmanager.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
